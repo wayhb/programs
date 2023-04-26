@@ -1,0 +1,15 @@
+C:\Users\MyPC\source\repos\2\Client2\bin\Debug\net6.0\Client2.exe
+C:\Users\MyPC\source\repos\2\Client2\bin\Debug\net6.0\Client2.deps.json
+C:\Users\MyPC\source\repos\2\Client2\bin\Debug\net6.0\Client2.runtimeconfig.json
+C:\Users\MyPC\source\repos\2\Client2\bin\Debug\net6.0\Client2.dll
+C:\Users\MyPC\source\repos\2\Client2\bin\Debug\net6.0\Client2.pdb
+C:\Users\MyPC\source\repos\2\Client2\obj\Debug\net6.0\Client2.csproj.AssemblyReference.cache
+C:\Users\MyPC\source\repos\2\Client2\obj\Debug\net6.0\Client2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MyPC\source\repos\2\Client2\obj\Debug\net6.0\Client2.AssemblyInfoInputs.cache
+C:\Users\MyPC\source\repos\2\Client2\obj\Debug\net6.0\Client2.AssemblyInfo.cs
+C:\Users\MyPC\source\repos\2\Client2\obj\Debug\net6.0\Client2.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\source\repos\2\Client2\obj\Debug\net6.0\Client2.dll
+C:\Users\MyPC\source\repos\2\Client2\obj\Debug\net6.0\refint\Client2.dll
+C:\Users\MyPC\source\repos\2\Client2\obj\Debug\net6.0\Client2.pdb
+C:\Users\MyPC\source\repos\2\Client2\obj\Debug\net6.0\Client2.genruntimeconfig.cache
+C:\Users\MyPC\source\repos\2\Client2\obj\Debug\net6.0\ref\Client2.dll
